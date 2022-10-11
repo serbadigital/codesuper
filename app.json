@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "SuperCoder Chat",
+    "name": "Chat App",
     "slug": "rn-chat-app",
     "platforms": [
       "ios",
